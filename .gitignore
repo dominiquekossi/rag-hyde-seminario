@@ -1,0 +1,6 @@
+beir_data/
+rag_cache/
+hipoteses_*.json
+*.zip
+__pycache__/
+.ipynb_checkpoints/
