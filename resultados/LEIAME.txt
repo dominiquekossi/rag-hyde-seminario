@@ -1,0 +1,3 @@
+Estes CSV foram refeitos a partir das tabelas salvas (saídas do notebook do Quati e do notebook da SciFact, e tabelas do relatório).
+Os arquivos originais do Colab se perderam quando a sessão terminou.
+Os valores têm 3 ou 4 casas decimais, como estavam nas tabelas. Para gerar os arquivos completos de novo, rode os notebooks.

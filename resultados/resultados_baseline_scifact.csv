@@ -1,0 +1,6 @@
+Método,nDCG@10,Recall@100,Tempo de busca (s),Geração LLM (s)
+BM25,0.6519,0.8731,12.7,
+Denso (Contriever),0.6493,0.9260,141.0,
+Denso (mE5-small),0.6770,0.9250,51.8,
+HyDE (Contriever),0.6768,0.9547,21.3,268.4
+HyDE (mE5-small),0.7159,0.9377,8.3,268.4

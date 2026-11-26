@@ -15,6 +15,7 @@ Na busca densa normal, a pergunta vira um vetor e o sistema procura os documento
 | `notebooks/Parte3_Baseline_HyDE_SciFact.ipynb` | BM25, busca densa e HyDE na SciFact, com teste de significância e ablações |
 | `notebooks/Parte3b_Quati_HyDE.ipynb` | O mesmo teste em português, em um subconjunto do Quati (com as saídas da nossa rodada) |
 | `notebooks/Parte1_App_RAG_HyDE.ipynb` | App web de demonstração (Gradio), pronto para rodar no Colab |
+| `resultados/` | Tabelas dos testes em CSV (ver `LEIAME.txt` na pasta) |
 | `app/` | Código do app: `rag_core.py` (busca, HyDE e resposta) e `app.py` (interface) |
 
 ## Como rodar

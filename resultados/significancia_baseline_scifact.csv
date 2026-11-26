@@ -1,0 +1,5 @@
+Comparação,Diferença média,IC 95% inferior,IC 95% superior,p (t pareado),p (Wilcoxon),Consultas melhor,Consultas pior,Empates
+HyDE Contriever - Denso Contriever,0.0275,-0.0027,0.0571,0.070,0.100,69,50,181
+HyDE Contriever - BM25,0.0249,-0.0131,0.0630,0.210,0.188,70,69,161
+HyDE mE5 - Denso mE5,0.0389,0.0126,0.0660,0.005,0.009,61,42,197
+HyDE mE5 - BM25,0.0640,0.0248,0.1038,0.002,0.003,79,59,162

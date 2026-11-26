@@ -1,0 +1,6 @@
+Comparação,Diferença média,IC 95% inferior,IC 95% superior,p (t pareado),p (Wilcoxon),Consultas melhor,Consultas pior,Empates
+HyDE-PT (mE5-small) - Denso (mE5-small),0.0452,0.0027,0.0841,0.0335,0.0123,33,15,1
+HyDE-PT (mE5-small) - BM25,0.1473,0.0731,0.2233,0.0003,0.0005,35,13,1
+HyDE-EN-instr (mE5-small) - Denso (mE5-small),0.0070,-0.0332,0.0420,0.7158,0.2592,26,22,1
+HyDE-EN-instr (mE5-small) - BM25,0.1091,0.0340,0.1856,0.0066,0.0044,33,15,1
+HyDE-PT (mE5-small) - HyDE-EN-instr (mE5-small),0.0382,0.0193,0.0579,0.0004,0.0012,30,17,2
